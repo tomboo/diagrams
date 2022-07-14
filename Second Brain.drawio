@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T16:22:24.748Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Y-iVqHClNM7R1tLiS-iQ" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T16:23:15.861Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="I3DzaaU3tQJyhIuRxRMG" version="20.0.4" type="github">
   <diagram id="3BPSOvyjyfxISo29sSgV" name="Page-1">
     <mxGraphModel dx="905" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -59,7 +59,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GRuHN4-AiLulBlKrEt0T-1" value="Goals" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="140" y="120" width="60" height="80" as="geometry" />
+          <mxGeometry x="100" y="280" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GRuHN4-AiLulBlKrEt0T-2" value="Values" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="100" y="120" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
